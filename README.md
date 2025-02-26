@@ -48,7 +48,7 @@ Find a regular expression that will match a student number, based on the additio
  
 `Unless the way your regular expression works is obvious, please explain how it works, e.g. this here will match the character and that here makes sure it also works if there is no character in front of the number.`
 
-**Answer:** 
+**Answer:** ([A-Za-z]?\d{8})
 
 #### Question 3
 
