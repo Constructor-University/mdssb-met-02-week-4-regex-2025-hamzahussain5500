@@ -57,7 +57,7 @@ Find a regular expression that will match a student number, based on the additio
  
 `Unless the way your regular expression works is obvious, please explain how it works.`
 
-**Answer:** Replace this text with your answer.
+**Answer:** ([A-Za-z]?\d{8}) Similar to previous question, it works by allowing any text character upper case or lower case. It also works if the first character is not mentioned.
 
 #### Question 4a
 
@@ -67,7 +67,15 @@ Example: 0421 / 200 40, +49 421 200 40
  
 `It's obvious, but just to spell it out: For this question, you should think about different ways of writing down a phone number. It's not about trying to come up with as many phone number as you can.`
 
-**Answer:** Replace this text with your answer.
+**Answer:**
++49 (0)30 123 45 67
++49-30-1234567
+0049 30 1234567
++49 30 1234567
+0176 /123 45 678
+01 23/1 23 98 89 
+
+
 
 
 #### Question 4b
